@@ -1,1 +1,15 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# Metaverse
+
+![Alt text](metaverse-img.png)
+
+## Skills used in building this user interface
+
+#### HTML
+
+#### CSS
+
+#### Tailwind CSS
+
+#### React JS
+
+#### Next JS
